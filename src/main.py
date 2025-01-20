@@ -1,1 +1,1 @@
-print('HELLO.py')
+print('qwe.py')
