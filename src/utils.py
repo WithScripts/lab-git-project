@@ -1,4 +1,4 @@
-def multiply_numbers(y, x):
-    return y * x
-def add_numbers(y, x):
-    return y + x
+def multiply_numbers(x, y):
+    return x * y
+def add_numbers(x, y):
+    return x + y
